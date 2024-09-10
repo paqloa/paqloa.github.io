@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://paqloa.github.io/ghr/sitemap.ghr.gz
